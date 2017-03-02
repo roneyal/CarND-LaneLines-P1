@@ -1,9 +1,5 @@
 #**Finding Lane Lines on the Road** 
 
-##Writeup Template
-
-###You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
-
 ---
 
 **Finding Lane Lines on the Road**
@@ -33,7 +29,7 @@ Within each group I averaged the slope and the center point and extrapolated to 
 
 Here is an example output:
 
-![alt text][./test_images/out/solidWhiteCurve_lanes.png]
+![ex_img][./test_images/out/solidWhiteCurve_lanes.png]
 
 ###2. Identify potential shortcomings with your current pipeline
 
