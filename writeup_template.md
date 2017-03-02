@@ -29,7 +29,7 @@ Within each group I averaged the slope and the center point and extrapolated to 
 
 Here is an example output:
 
-![ex_img][./test_images/out/solidWhiteCurve_lanes.png]
+![ex_img][./test_images/out/solidWhiteCurve_lanes.jpg]
 
 ###2. Identify potential shortcomings with your current pipeline
 
